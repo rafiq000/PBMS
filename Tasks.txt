@@ -1,0 +1,35 @@
+i).data base creat========done
+-cash in table done
+0.serial no
+1.Discription
+2.Amount(tKk)
+3.time
+
+-customer table Done
+1.Customer name
+2.Mobile no (primary key)
+3.Address
+4.time
+
+-transaction table
+1.Mobile number(Forign Key)
+2.Goods name
+3.quntity in kg
+4.price per kg
+5.total amount
+6.time
+
+-paid table
+1.Mobile no
+2.Midium
+3.amount.
+4.time
+================================================
+navigation: comptete
+index.php : "
+cashin:      ""
+connect: ""
+transaction: ""
+register:   ""
+paid :          ''
+

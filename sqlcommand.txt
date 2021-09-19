@@ -1,0 +1,5 @@
+cash In:
+CREATE TABLE `aap`.`cashin` ( `sl` INT NOT NULL AUTO_INCREMENT , `disp` INT NOT NULL , `amount` INT NOT NULL , `time` DATETIME NOT NULL , PRIMARY KEY (`sl`)) ENGINE = InnoDB;
+
+Customer:
+
